@@ -1,36 +1,192 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 Kawser Ali - Developer Portfolio
 
-## Getting Started
+A modern, responsive, and interactive developer portfolio built with **Next.js**, **React**, **Tailwind CSS**, and **Framer Motion**. This portfolio showcases my skills, projects, education, and contact information with a clean cyber-inspired UI.
 
-First, run the development server:
+## 🌐 Live Website
+
+🔗 https://my-portfolio-rho-cyan-qjf4y3iw16.vercel.app
+
+---
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/kawserali-64/my-portfolio
+
+---
+
+## ✨ Features
+
+- Responsive Navigation Bar
+- Modern Hero Section
+- Resume Download Button
+- About Me Section
+- Skills Section
+- Education Section
+- Featured Projects
+- Dynamic Project Details Page
+- Contact Form (Web3Forms)
+- Social Media Links
+- Smooth Scrolling Navigation
+- Active Navigation Highlight
+- Fully Responsive Design
+- Modern UI/UX with Animations
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- Next.js 16
+- React 19
+- Tailwind CSS
+- Framer Motion
+
+### Icons
+
+- React Icons
+
+### Contact Service
+
+- Web3Forms
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📁 Project Structure
+
+```
+app/
+components/
+data/
+public/
+```
+
+---
+
+## 🚀 Projects Included
+
+### 1. AI Course Marketplace
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+
+**Features**
+
+- Authentication
+- Course Management
+- Responsive UI
+- Dashboard
+- AI Features
+
+---
+
+### 2. House Rental Platform
+
+**Tech Stack**
+
+- React
+- Express.js
+- MongoDB
+- Firebase
+- Tailwind CSS
+
+**Features**
+
+- House Listing
+- Booking System
+- Authentication
+- Dashboard
+
+---
+
+### 3. Portfolio Website
+
+**Tech Stack**
+
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+
+**Features**
+
+- Responsive Design
+- Animated Sections
+- Contact Form
+- Project Details
+- Resume Download
+
+---
+
+## 📬 Contact
+
+**Name:** Kawser Ali
+
+**Email:** kawserali6436@gmail.com
+
+**Phone:** +8801866752434
+
+**GitHub:** https://github.com/kawserali-64
+
+**LinkedIn:** https://www.linkedin.com/in/kawser-ali-dev
+
+**Facebook:** https://www.facebook.com/profile.php?id=61577708174418
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/your-username/my-portfolio.git
+```
+
+Go to project folder
+
+```bash
+cd my-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📄 License
 
-To learn more about Next.js, take a look at the following resources:
+This project is created for educational purposes and personal portfolio showcase.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👨‍💻 Author
 
-## Deploy on Vercel
+**Kawser Ali**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Full Stack Web Developer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️ using Next.js & Tailwind CSS
